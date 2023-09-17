@@ -1,0 +1,14 @@
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\bin\Debug\net6.0\homework_01.exe
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\bin\Debug\net6.0\homework_01.deps.json
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\bin\Debug\net6.0\homework_01.runtimeconfig.json
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\bin\Debug\net6.0\homework_01.dll
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\bin\Debug\net6.0\homework_01.pdb
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\obj\Debug\net6.0\homework_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\obj\Debug\net6.0\homework_01.AssemblyInfoInputs.cache
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\obj\Debug\net6.0\homework_01.AssemblyInfo.cs
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\obj\Debug\net6.0\homework_01.csproj.CoreCompileInputs.cache
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\obj\Debug\net6.0\homework_01.dll
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\obj\Debug\net6.0\refint\homework_01.dll
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\obj\Debug\net6.0\homework_01.pdb
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\obj\Debug\net6.0\homework_01.genruntimeconfig.cache
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_01\homework_01\obj\Debug\net6.0\ref\homework_01.dll
