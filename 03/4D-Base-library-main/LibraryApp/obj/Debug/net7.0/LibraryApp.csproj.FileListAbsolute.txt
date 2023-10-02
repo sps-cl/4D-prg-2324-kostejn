@@ -1,0 +1,14 @@
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\bin\Debug\net7.0\LibraryApp.exe
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\bin\Debug\net7.0\LibraryApp.deps.json
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\bin\Debug\net7.0\LibraryApp.runtimeconfig.json
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\bin\Debug\net7.0\LibraryApp.dll
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\bin\Debug\net7.0\LibraryApp.pdb
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\obj\Debug\net7.0\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\obj\Debug\net7.0\LibraryApp.AssemblyInfoInputs.cache
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\obj\Debug\net7.0\LibraryApp.AssemblyInfo.cs
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\obj\Debug\net7.0\LibraryApp.csproj.CoreCompileInputs.cache
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\obj\Debug\net7.0\LibraryApp.dll
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\obj\Debug\net7.0\refint\LibraryApp.dll
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\obj\Debug\net7.0\LibraryApp.pdb
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\obj\Debug\net7.0\LibraryApp.genruntimeconfig.cache
+R:\PRG\4D-prg-2324-kostejn\03\4D-Base-library-main\LibraryApp\obj\Debug\net7.0\ref\LibraryApp.dll

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filam\\Desktop\\GITHUB\\4D-prg-2324-kostejn\\homework_01\\homework_01\\homework_01.csproj": {}
+    "R:\\PRG\\4D-prg-2324-kostejn\\homework_01\\homework_01\\homework_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filam\\Desktop\\GITHUB\\4D-prg-2324-kostejn\\homework_01\\homework_01\\homework_01.csproj": {
+    "R:\\PRG\\4D-prg-2324-kostejn\\homework_01\\homework_01\\homework_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filam\\Desktop\\GITHUB\\4D-prg-2324-kostejn\\homework_01\\homework_01\\homework_01.csproj",
+        "projectUniqueName": "R:\\PRG\\4D-prg-2324-kostejn\\homework_01\\homework_01\\homework_01.csproj",
         "projectName": "homework_01",
-        "projectPath": "C:\\Users\\filam\\Desktop\\GITHUB\\4D-prg-2324-kostejn\\homework_01\\homework_01\\homework_01.csproj",
-        "packagesPath": "C:\\Users\\filam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filam\\Desktop\\GITHUB\\4D-prg-2324-kostejn\\homework_01\\homework_01\\obj\\",
+        "projectPath": "R:\\PRG\\4D-prg-2324-kostejn\\homework_01\\homework_01\\homework_01.csproj",
+        "packagesPath": "C:\\Users\\filip.kostejn\\.nuget\\packages\\",
+        "outputPath": "R:\\PRG\\4D-prg-2324-kostejn\\homework_01\\homework_01\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\filam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\filip.kostejn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
