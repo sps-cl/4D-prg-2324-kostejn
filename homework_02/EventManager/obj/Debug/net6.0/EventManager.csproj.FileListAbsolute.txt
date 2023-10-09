@@ -1,0 +1,14 @@
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\bin\Debug\net6.0\EventManager.exe
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\bin\Debug\net6.0\EventManager.deps.json
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\bin\Debug\net6.0\EventManager.runtimeconfig.json
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\bin\Debug\net6.0\EventManager.dll
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\bin\Debug\net6.0\EventManager.pdb
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\obj\Debug\net6.0\EventManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\obj\Debug\net6.0\EventManager.AssemblyInfoInputs.cache
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\obj\Debug\net6.0\EventManager.AssemblyInfo.cs
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\obj\Debug\net6.0\EventManager.csproj.CoreCompileInputs.cache
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\obj\Debug\net6.0\EventManager.dll
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\obj\Debug\net6.0\refint\EventManager.dll
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\obj\Debug\net6.0\EventManager.pdb
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\obj\Debug\net6.0\EventManager.genruntimeconfig.cache
+C:\Users\filam\Desktop\GITHUB\4D-prg-2324-kostejn\homework_02\EventManager\obj\Debug\net6.0\ref\EventManager.dll
