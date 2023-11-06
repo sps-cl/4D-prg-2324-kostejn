@@ -1,0 +1,32 @@
+.yellowBackground {
+    background-color: yellow;
+}
+
+h1, p {
+    font-size: 2em;
+    background-color: rgb(200, 255, 0);
+}
+
+
+
+
+ div {
+    margin-left: 20px 30px 40px 50px;
+    padding: 20px 30px 40px 50px;
+    font-size: 2em;
+    background-color: blue;
+    text-align: center;
+    display: block;
+ }
+
+ h2 {
+    font-size: 7vw;
+ }
+
+ #p1 {
+    background-color: brown;
+ }
+
+ .yellowBackground:hover {
+    background-color: violet;
+ }
