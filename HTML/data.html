@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,4 +17,24 @@
 </script>
 
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<script>
+    let data = new URLSearchParams(window.location.search);
+    data.forEach((hodnota, jmeno) => {
+        document.body.append(jmeno + " : " + hodnota);
+        document.body.appendChild(document.createElement("br"));
+    });
+</script>
+
+</body>
+>>>>>>> 73d2f2412d381ba0442b7118ccfd2ca42bbeb6b5
 </html>
